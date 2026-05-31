@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Namakkal poultry industry sees growth",
+      "summary": "Namakkal poultry sector shows steady growth with increased export demand...",
+      "source": "Times of India",
+      "date": "2026-05-30",
+      "url": "https://example.com/news1",
+      "category": "Agriculture",
+      "slug": "namakkal-poultry-growth"
+    },
+    {
+      "id": 2,
+      "title": "New bus stand development in Tiruchengode",
+      "summary": "Government announces infrastructure upgrade in Tiruchengode bus stand...",
+      "source": "The Hindu",
+      "date": "2026-05-29",
+      "url": "https://example.com/news2",
+      "category": "Government Announcements",
+      "slug": "tiruchengode-bus-stand"
+    }
+  ]
+}
